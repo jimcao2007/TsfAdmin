@@ -1,5 +1,4 @@
 .idea
 TSF
-Common/Config/Config.php
-App/Admin/Config/Config.php
-App/Admin/Log
+**/Config.php
+**/Log
